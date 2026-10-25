@@ -1,6 +1,3 @@
--- Rkzin Hub: Loader Oficial
--- Salve este código num Pastefy e use o link RAW no seu executor.
-
 local urlLocopani = "https://raw.githubusercontent.com/locopanison-crypto/Locopanix/refs/heads/main/LOCOPANI_RAYFIELD_GEN2%20(3).lua"
 local urlCH = "https://pastefy.app/OxmnhmJY/raw"
 
